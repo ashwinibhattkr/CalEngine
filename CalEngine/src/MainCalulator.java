@@ -1,10 +1,9 @@
- import java.util.HashMap;
- import java.util.Map;
- 
+import java.util.HashMap;
+import java.util.Map;
+
 public class MainCalulator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Map<String, Integer> map = new HashMap<String, Integer>();
 		map.put("A", 5);
