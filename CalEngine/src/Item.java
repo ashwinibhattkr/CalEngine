@@ -13,15 +13,7 @@ public class Item {
 	public String getSKUId() {
 		return SKUId;
 	}
-	public void setSKUId(String sKUId) {
-		SKUId = sKUId;
-	}
-	public long getPrice() {
-		return price;
-	}
-	public void setPrice(long price) {
-		this.price = price;
-	}
+
 	
 	
 }

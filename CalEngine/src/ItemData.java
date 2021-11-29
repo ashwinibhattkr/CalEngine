@@ -32,7 +32,6 @@ public class ItemData {
 
 		}
 
-		System.out.println(new Item("A").getPrice());
 
 		return totalA + totalB + totalC + totalD;
 
