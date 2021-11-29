@@ -9,7 +9,7 @@ public class MainCalulator {
 		map.put("A", 5);
 		map.put("B", 5);
 		map.put("C", 1);
-		map.put("D", 0);
+		map.put("D", 1);
 
 		long bill = ItemData.calculatePromo(map);
 		System.out.println(bill);
